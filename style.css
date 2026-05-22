@@ -1,0 +1,26 @@
+body{
+  background:#0d0d0d;
+  color:white;
+  font-family:sans-serif;
+  text-align:center;
+}
+
+.logo{
+  width:120px;
+  margin-top:20px;
+}
+
+.card{
+  background:#1b1b1b;
+  margin:20px;
+  padding:20px;
+  border-radius:20px;
+}
+
+a{
+  background:gold;
+  color:black;
+  padding:10px 20px;
+  border-radius:10px;
+  text-decoration:none;
+}
